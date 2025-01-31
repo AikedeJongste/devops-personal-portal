@@ -1,4 +1,4 @@
-import { Cloud, Container, Git, Server } from "lucide-react";
+import { Cloud, Container, GitBranch, Server } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/card";
 
 const Skills = () => {
@@ -14,7 +14,7 @@ const Skills = () => {
       description: "Docker, Kubernetes",
     },
     {
-      icon: <Git className="h-8 w-8 mb-4 text-primary" />,
+      icon: <GitBranch className="h-8 w-8 mb-4 text-primary" />,
       title: "Version Control",
       description: "Git, GitHub Actions",
     },
