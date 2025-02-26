@@ -5,8 +5,8 @@ const Skills = () => {
   const skills = [
     {
       icon: <Cloud className="h-8 w-8 mb-4 text-primary" />,
-      title: "Cloud Platforms",
-      description: "AWS, GCP, Azure",
+      title: "Programming",
+      description: "Ruby on Rails",
     },
     {
       icon: <Container className="h-8 w-8 mb-4 text-primary" />,
