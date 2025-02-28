@@ -15,18 +15,13 @@ const Hero = () => {
       </p>
       <div className="flex gap-4 mb-12">
         <Button variant="outline" size="icon">
-          <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/aikedejongste" target="_blank" rel="noopener noreferrer">
             <Github className="h-5 w-5" />
           </a>
         </Button>
         <Button variant="outline" size="icon">
-          <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/aikedejongste" target="_blank" rel="noopener noreferrer">
             <Linkedin className="h-5 w-5" />
-          </a>
-        </Button>
-        <Button variant="outline" size="icon">
-          <a href="mailto:contact@example.com">
-            <Mail className="h-5 w-5" />
           </a>
         </Button>
       </div>
